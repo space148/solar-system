@@ -42,6 +42,6 @@ button {
 button:hover {
 /*     background-color: rgb(128, 128, 128);
     color: rgb(128, 128, 128); */
-	    box-shadow : 5px 5px 5px 5px rgb(128, 128, 128);
+	    box-shadow : 5px 2px 2px 5px rgb(128, 128, 128);
 
 }
